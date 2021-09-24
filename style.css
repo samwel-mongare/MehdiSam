@@ -1,0 +1,21 @@
+@media only screen and (max-width: 600px){
+	header{
+		position: absolute;
+		top: 0px;
+		width: 100%;
+
+		padding: 30px 0px;
+
+		display: flex;
+		align-items: center;
+
+		background-color: black;
+	}
+}
+.mediaQuery {
+  background-color: lightgreen;
+}
+
+.heightClass {
+  height: 150px; 
+}
